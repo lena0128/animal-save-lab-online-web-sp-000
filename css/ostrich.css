@@ -10,3 +10,9 @@ html {
 
 /* Write your solution here */
 
+@media only dcreen and (max-width: 1196px){
+  #ostrich {
+    top: -50px;
+  }
+
+}
